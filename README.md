@@ -25,5 +25,10 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0202-happy-number) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
