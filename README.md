@@ -11,6 +11,7 @@
 | [0075-sort-colors](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1089-duplicate-zeros](https://github.com/itsam-13/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
 ## Two Pointers
 |  |
@@ -28,11 +29,13 @@
 | [0015-3sum](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -40,6 +43,7 @@
 | [0050-powx-n](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -67,6 +71,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -84,4 +89,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
