@@ -12,6 +12,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1089-duplicate-zeros](https://github.com/itsam-13/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
 ## Two Pointers
 |  |
@@ -36,6 +37,7 @@
 | [0169-majority-element](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Math
 |  |
 | ------- |
