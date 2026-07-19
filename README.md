@@ -18,6 +18,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1089-duplicate-zeros](https://github.com/itsam-13/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
+| [1331-rank-transform-of-an-array](https://github.com/itsam-13/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/itsam-13/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Two Pointers
 |  |
@@ -36,6 +37,7 @@
 | [0075-sort-colors](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [1331-rank-transform-of-an-array](https://github.com/itsam-13/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +46,7 @@
 | [0202-happy-number](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1331-rank-transform-of-an-array](https://github.com/itsam-13/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Math
 |  |
 | ------- |
