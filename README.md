@@ -18,6 +18,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1089-duplicate-zeros](https://github.com/itsam-13/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
+| [1260-shift-2d-grid](https://github.com/itsam-13/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/itsam-13/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/itsam-13/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Two Pointers
@@ -89,6 +90,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [1260-shift-2d-grid](https://github.com/itsam-13/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 ## String Matching
 |  |
 | ------- |
@@ -114,4 +116,8 @@
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/itsam-13/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/itsam-13/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/itsam-13/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
