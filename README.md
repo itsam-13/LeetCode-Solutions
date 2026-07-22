@@ -56,6 +56,7 @@
 | [0050-powx-n](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/itsam-13/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -87,6 +88,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0268-missing-number](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Simulation
 |  |
@@ -122,4 +124,8 @@
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/itsam-13/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
