@@ -48,6 +48,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/itsam-13/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itsam-13/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2126-destroying-asteroids](https://github.com/itsam-13/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itsam-13/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/itsam-13/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/itsam-13/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
@@ -59,6 +60,7 @@
 | [0268-missing-number](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/itsam-13/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itsam-13/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
 | ------- |
@@ -100,6 +102,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/itsam-13/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itsam-13/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/itsam-13/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Bit Manipulation
 |  |
@@ -127,6 +130,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itsam-13/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -164,4 +168,5 @@
 | ------- |
 | [2126-destroying-asteroids](https://github.com/itsam-13/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/itsam-13/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itsam-13/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
