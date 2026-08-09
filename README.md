@@ -23,6 +23,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1089-duplicate-zeros](https://github.com/itsam-13/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
+| [1140-stone-game-ii](https://github.com/itsam-13/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/itsam-13/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/itsam-13/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itsam-13/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -82,6 +83,7 @@
 | [0486-predict-the-winner](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/itsam-13/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/itsam-13/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/itsam-13/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/itsam-13/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -103,6 +105,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/itsam-13/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/itsam-13/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
 |  |
@@ -197,14 +200,17 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/itsam-13/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 ## Minimax
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/itsam-13/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/itsam-13/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -221,4 +227,8 @@
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/itsam-13/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/itsam-13/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
