@@ -214,14 +214,17 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/itsam-13/LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/itsam-13/LeetCode-Solutions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/itsam-13/LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/itsam-13/LeetCode-Solutions/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
 | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/itsam-13/LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/itsam-13/LeetCode-Solutions/tree/master/3310-remove-methods-from-project) |
 ## Combinatorics
 |  |
@@ -231,4 +234,8 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/itsam-13/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+## Union-Find
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/itsam-13/LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
