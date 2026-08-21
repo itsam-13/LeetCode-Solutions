@@ -125,15 +125,18 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/itsam-13/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/itsam-13/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## String
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/itsam-13/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/itsam-13/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itsam-13/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/itsam-13/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -210,6 +213,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/itsam-13/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/itsam-13/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/itsam-13/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [2126-destroying-asteroids](https://github.com/itsam-13/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
