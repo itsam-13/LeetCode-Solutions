@@ -70,6 +70,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0202-happy-number) |
@@ -88,6 +89,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0067-add-binary) |
@@ -140,6 +142,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/itsam-13/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
