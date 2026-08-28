@@ -119,6 +119,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -143,6 +144,7 @@
 | [0006-zigzag-conversion](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+| [0022-generate-parentheses](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/itsam-13/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -206,6 +208,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0089-gray-code](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0089-gray-code) |
 ## Enumeration
 |  |
@@ -288,4 +291,8 @@
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/itsam-13/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
