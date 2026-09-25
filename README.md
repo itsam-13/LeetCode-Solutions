@@ -74,6 +74,7 @@
 | [0169-majority-element](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/itsam-13/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/itsam-13/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itsam-13/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/itsam-13/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -94,6 +95,7 @@
 | [0202-happy-number](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1096-brace-expansion-ii](https://github.com/itsam-13/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/itsam-13/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/itsam-13/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/itsam-13/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -173,6 +175,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/itsam-13/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/itsam-13/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -191,6 +194,7 @@
 | [0115-distinct-subsequences](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/itsam-13/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/itsam-13/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/itsam-13/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/itsam-13/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/itsam-13/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -263,6 +267,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0089-gray-code](https://github.com/itsam-13/LeetCode-Solutions/tree/master/0089-gray-code) |
+| [1096-brace-expansion-ii](https://github.com/itsam-13/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -319,6 +324,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/itsam-13/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/itsam-13/LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/itsam-13/LeetCode-Solutions/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/itsam-13/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
